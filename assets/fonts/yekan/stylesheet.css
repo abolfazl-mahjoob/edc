@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Yekan Bakh";
+  src: url("YekanBakhFaNum-Medium.eot");
+  src: local("YekanBakhFaNum-Medium"),
+    url("YekanBakhFaNum-Medium.eot?#iefix") format("embedded-opentype"),
+    url("YekanBakhFaNum-Medium.woff2") format("woff2"),
+    url("YekanBakhFaNum-Medium.woff") format("woff"),
+    url("YekanBakhFaNum-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Yekan Bakh";
+  src: url("YekanBakhFaNum-Bold.eot");
+  src: local("YekanBakhFaNum-Bold"),
+    url("YekanBakhFaNum-Bold.eot?#iefix") format("embedded-opentype"),
+    url("YekanBakhFaNum-Bold.woff2") format("woff2"),
+    url("YekanBakhFaNum-Bold.woff") format("woff"),
+    url("YekanBakhFaNum-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Yekan Bakh";
+  src: url("YekanBakhFaNum-Light.eot");
+  src: local("YekanBakhFaNum-Light"),
+    url("YekanBakhFaNum-Light.eot?#iefix") format("embedded-opentype"),
+    url("YekanBakhFaNum-Light.woff2") format("woff2"),
+    url("YekanBakhFaNum-Light.woff") format("woff"),
+    url("YekanBakhFaNum-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Yekan Bakh";
+  src: url("YekanBakhFaNum-black.eot");
+  src: local("YekanBakhFaNum-black"),
+    url("YekanBakhFaNum-black.eot?#iefix") format("embedded-opentype"),
+    url("YekanBakhFaNum-black.woff2") format("woff2"),
+    url("YekanBakhFaNum-black.woff") format("woff"),
+    url("YekanBakhFaNum-black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Yekan Bakh";
+  src: url("YekanBakhFaNum-Thin.eot");
+  src: local("YekanBakhFaNum-Thin"),
+    url("YekanBakhFaNum-Thin.eot?#iefix") format("embedded-opentype"),
+    url("YekanBakhFaNum-Thin.woff2") format("woff2"),
+    url("YekanBakhFaNum-Thin.woff") format("woff"),
+    url("YekanBakhFaNum-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Yekan Bakh";
+  src: url("YekanBakhFaNum-Regular.eot");
+  src: local("YekanBakhFaNum-Regular"),
+    url("YekanBakhFaNum-Regular.eot?#iefix") format("embedded-opentype"),
+    url("YekanBakhFaNum-Regular.woff2") format("woff2"),
+    url("YekanBakhFaNum-Regular.woff") format("woff"),
+    url("YekanBakhFaNum-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
